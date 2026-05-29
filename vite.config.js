@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // 設定 GitHub Pages 的儲存庫名稱作為基礎路徑
-  base: '/202605292/',
+  base: '/20260529/',
 })
